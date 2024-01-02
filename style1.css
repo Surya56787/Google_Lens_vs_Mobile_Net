@@ -1,0 +1,36 @@
+.test_image_and_result {
+    background-color: pink;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+h5 {
+    background-color: white;
+    border-radius: 20px;
+    width: 200px !important;
+    font-size: 19px !important;
+    margin-right: 70px;
+}
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+h1 {
+    font-size: 50px !important;
+    border-radius: 20px !important;
+}
+h3 {
+    font-size: 35px !important;
+    border-radius: 20px !important;
+}
+
+b{
+    font-size: 30px;
+}
+
+h4{
+    font-size: 30px;
+    font-weight: bold;
+}
+
